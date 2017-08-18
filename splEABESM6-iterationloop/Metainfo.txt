@@ -1,0 +1,14 @@
+Name of QuantLet:splEABESM6-iterationloop
+
+Published in: Expectile-Arch Based ES Measurement
+
+Description:Run the iteration loop and calculate the absolute difference of adjacent betas to judge whether to end the loop.Accordingly, the final beta needed is obtained.
+
+Keywords: iteration, loop, absolute difference
+
+See also: splEABESM1-overviewofreturndata, splEABESM2-calculatetheta, splEABESM3-data, splEABESM4-prepareforiteration, splEABESM5-iterationfunction, splEABESM7-results
+
+Author: Xiaodan Zhao, Bingling Wang, Mingqi pei
+
+Submitted: Thu, August 17 2017 by Mingqi Pei
+

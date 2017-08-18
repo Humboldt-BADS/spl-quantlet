@@ -1,0 +1,14 @@
+Name of QuantLet:splEABESM5-iterationfunction
+
+Published in: Expectile-Arch Based ES Measurement
+
+Description: Write the iteration function using the expectile-arch estimation where we input a beta and get a new beta as output, and the function will be used to complete iteration in next steps.
+
+Keywords: iteration, function, indicator function
+
+See also: splEABESM1-overviewofreturndata, splEABESM2-calculatetheta, splEABESM3-data, splEABESM4-prepareforiteration,  splEABESM6-iterationloop, splEABESM7-results
+
+Author: Xiaodan Zhao, Bingling Wang, Mingqi pei
+
+Submitted: Thu, August 17 2017 by Mingqi Pei
+

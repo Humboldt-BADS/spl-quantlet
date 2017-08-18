@@ -1,0 +1,15 @@
+Name of QuantLet:splEABESM4-prepareforiteration
+
+Published in: Expectile-Arch Based ES Measurement
+
+Description: Calculate all the variables needed in next step and test the heteroscedasticity.
+
+Keywords: linear regression, test heteroscedasticity, crossprod, solve matrix
+
+See also: splEABESM1-overviewofreturndata, splEABESM2-calculatetheta, splEABESM3-data, splEABESM5-iterationfunction, splEABESM6-iterationloop, splEABESM7-results
+
+Author: Xiaodan Zhao, Bingling Wang, Mingqi pei
+
+Submitted: Thu, August 17 2017 by Mingqi Pei
+
+Example: The plot is to test heteroscedasticity.

@@ -1,0 +1,14 @@
+Name of QuantLet:splEABESM7-results
+
+Published in: Expectile-Arch Based ES Measurement
+
+Description: According to EA estimated beta, calculate the corresponding theta, VaR and ES.
+
+Keywords: quantile, VaR, ES
+
+See also: splEABESM1-overviewofreturndata, splEABESM2-calculatetheta, splEABESM3-data, splEABESM4-prepareforiteration, splEABESM5-iterationfunction, splEABESM6-iterationloop
+
+Author: Xiaodan Zhao, Bingling Wang, Mingqi pei
+
+Submitted: Thu, August 17 2017 by Mingqi Pei
+
