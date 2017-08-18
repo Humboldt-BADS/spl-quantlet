@@ -1,0 +1,14 @@
+Name of QuantLet:splEABESM3-data
+
+Published in: Expectile-Arch Based ES Measurement
+
+Description: Collect the data sets and transform into matrix.
+
+Keywords: DB, date, index return, PE, turnover rate, csv
+
+See also: splEABESM1-overviewofreturndata, splEABESM2-calculatetheta, splEABESM4-prepareforiteration, splEABESM5-iterationfunction, splEABESM6-iterationloop, splEABESM7-results
+
+Author: Xiaodan Zhao, Bingling Wang, Mingqi pei
+
+Submitted: Thu, August 17 2017 by Mingqi Pei
+
